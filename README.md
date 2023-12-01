@@ -1,6 +1,6 @@
 # Praktikum HTML dan CSS
 
-Praktikum ini merupakan contoh sederhana penggunaan HTML dan CSS untuk membuat halaman web statis. Dalam praktikum ini, saya membuat halaman web sederhana dengan tata letak dan gaya dasar menggunakan HTML dan CSS dalam bentuk Curricukum Vitae.
+Praktikum ini merupakan contoh sederhana penggunaan HTML dan CSS untuk membuat halaman web statis. Dalam praktikum ini, saya membuat halaman web sederhana dengan tata letak dan gaya dasar menggunakan HTML dan CSS dalam bentuk Curriculum Vitae.
 
 ## Struktur Proyek
 
